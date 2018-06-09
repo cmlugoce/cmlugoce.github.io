@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**From rocks to code**"
-date:       2018-06-09 18:56:47 +0000
+date:       2018-06-09 14:56:47 -0400
 permalink:  from_rocks_to_code
 ---
 
