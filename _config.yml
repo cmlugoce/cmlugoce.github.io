@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: From rocks to code
 header-img: img/home-bg.png
 email: cmlugoce@syr.edu
 copyright_name: cmlugoce
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Eat. Code. Sleep. Repeat
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cmlugoce
