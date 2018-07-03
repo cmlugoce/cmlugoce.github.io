@@ -22,6 +22,7 @@ At this point, I was following the steps from Avi's video.  Creating the gem wit
 Scrape! Hmm! Mixed feelings about this hahaha! I spent most of my time scraping. I had to review the lessons on Scraping with Nokogiri. I had a list of 4 websites to scrape, and none of them work well, so I went to myy friend Google and searched for another website. Luckily, Fodors website is user-friendly, and most importantly, scraping-friendly. Selecting the CSS elements and iterating them was fun. After having this part completed and tested I felt great, and relieved.
 
 **4. CLI**
+
 All the scraping is done. So it was time to update my cli.rb file and test it. I did run in some problems (typos everywhere hahahha), but nothing out of control. I added another dependency to my gem: Colorize. With colorize, I added some colors to my CLI, to make it look more appealing. 
 
 **My take away from this project**
