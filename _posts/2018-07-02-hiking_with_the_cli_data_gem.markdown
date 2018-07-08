@@ -29,6 +29,6 @@ All the scraping is done. So it was time to update my cli.rb file and test it. I
 
 Building the CLI project was fun. It definetely tookk way more time than I thought, mostly because I wasn't sure of my idea, and the scraping hahaha! After seeing the end product, I have to say that I'm getting comfortable in wrting my own code, and that I'm excited and looking forward for more challenges!
 
-Curious about my CLI gem? Check out my video  :)
+Curious about my CLI gem? Check out my video  [here!](https://youtu.be/pUG2tOeyU7s)
 
-[https://youtu.be/pUG2tOeyU7s]
+
