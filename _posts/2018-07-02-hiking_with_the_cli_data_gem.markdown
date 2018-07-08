@@ -31,5 +31,4 @@ Building the CLI project was fun. It definetely tookk way more time than I thoug
 
 Curious about my CLI gem? Check out my video  :)
 
-
-[https://youtu.be/pUG2tOeyU7s](http://)
+[https://youtu.be/pUG2tOeyU7s](https://youtu.be/pUG2tOeyU7s)
