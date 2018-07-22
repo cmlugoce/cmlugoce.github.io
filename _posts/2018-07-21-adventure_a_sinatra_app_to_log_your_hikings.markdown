@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Adventure: a Sinatra app to log your hikings"
-date:       2018-07-22 00:04:23 +0000
+date:       2018-07-21 20:04:24 -0400
 permalink:  adventure_a_sinatra_app_to_log_your_hikings
 ---
 
