@@ -8,7 +8,7 @@ permalink:  adventure_a_sinatra_app_to_log_your_hikings
 
 With *Adventure*, users can create an account and keep a log of their hiking trails and see posts from other users. I had fun doing this project, and spend less time than with the CLI data gem project, Wanderer!! I definetely feel more confident in coding. I'll share with you a little bit of the steps that I followed to build this.
 
-![](]https://i.imgur.com/jz3JDp8.png])
+![](https://i.imgur.com/jz3JDp8.png)
 
 **1. Idea and Setup**
 
