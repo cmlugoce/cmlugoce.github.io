@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails magic: a cheat sheet of important rails command (part 1)"
-date:       2018-08-02 21:00:27 +0000
+date:       2018-08-02 17:00:28 -0400
 permalink:  rails_magic_a_cheat_sheet_of_important_rails_command_part_1
 ---
 
@@ -27,5 +27,5 @@ Recently, I've been working on the Rails section and I can't believe how awesome
 
 I use these commands a lot, and they have made my life much easier!! In my next post I will share a list of the basic structure of a rails app! 
 
-For more info, you can check out [this](http://www.pragtob.info/rails-beginner-cheatsheet/) awesome tips!
+For more info, you can check out [these](http://www.pragtob.info/rails-beginner-cheatsheet/) awesome tips!
 
