@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Parks-book: Now with jQuery!!"
-date:       2018-09-04 21:43:36 +0000
+date:       2018-09-04 17:43:36 -0400
 permalink:  parks-book_now_with_jquery
 ---
 
@@ -10,7 +10,7 @@ For the fourth project, Rails app with jQuery, I decided to keep working with my
 
 
 
-#####  Must render one index page via jQuery and an Active Model Serialization JSON Backend.
+##  Must render one index page via jQuery and an Active Model Serialization JSON Backend.
 
  I decided to work with my User model. In the previous portfolio project the User's Profile showed the list of parks       logged. Now, I built a button that when clicked, displays the list of the user's parks. Also, in the Trails index view, there is a   'Read More' button that displays the trails' description without refreshing the page. 
  
@@ -33,13 +33,13 @@ $(function() {
 ```
    
 
-##### The Rails API must reveal at least one has-many relationship in the JSON that is then rendered to the page.
+## The Rails API must reveal at least one has-many relationship in the JSON that is then rendered to the page.
 
 Trail `has_many` Comments. The comments were rendered in the 'Trails show page'.
    
         
 
-##### Must render one show page via jQuery and an Active Model Serialization JSON Backend. 
+## Must render one show page via jQuery and an Active Model Serialization JSON Backend. 
 
 The  Park show page has a 'Previous' and 'Next' button that allows the user to sift through the parks posts.
 
@@ -63,7 +63,7 @@ $(function(){
 ```
 
 
-#####  Must use your Rails API to create a resource and render the response without a page refresh.
+## Must use your Rails API to create a resource and render the response without a page refresh.
 
 
 This means that we have to use AJAX Post to create a new object. For instance, when a user adds a comment, the comment is serialized, submitted through an AJAX Post request, with the response being the new object in JSON and then appending that new comment to the DOM. In the 'Trails show page' the user can create a new comment and the comment will append without a page refresh.
@@ -91,7 +91,7 @@ This means that we have to use AJAX Post to create a new object. For instance, w
       });
 ```
 
-##### Must translate the JSON responses into Javascript Model Objects. The Model Objects must have at least one method on the prototype. 
+## Must translate the JSON responses into Javascript Model Objects. The Model Objects must have at least one method on the prototype. 
 
 `Comment.prototype.renderComments` – The data of a comment is passed into the `renderComments()` function and appended to the DOM without refreshing the page.  
 
@@ -118,6 +118,6 @@ function Comment(data) {
 ```
 	
 
-##### Conclusion
+## Conclusion
 
 I like the functionality of my app, but I'm planning on adding more features such as editing and deleting comments. I learned a lot while doing this project. I'm excited and terrified to move onto React!!!
