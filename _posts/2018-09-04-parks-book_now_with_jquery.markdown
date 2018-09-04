@@ -32,12 +32,14 @@ $(function() {
   });
 ```
    
+	 
 
 ## The Rails API must reveal at least one has-many relationship in the JSON that is then rendered to the page.
 
 Trail `has_many` Comments. The comments were rendered in the 'Trails show page'.
    
         
+
 
 ## Must render one show page via jQuery and an Active Model Serialization JSON Backend. 
 
@@ -61,6 +63,7 @@ $(function(){
  })
 })
 ```
+
 
 
 ## Must use your Rails API to create a resource and render the response without a page refresh.
@@ -116,6 +119,7 @@ function Comment(data) {
    };
 			
 ```
+
 	
 
 ## Conclusion
