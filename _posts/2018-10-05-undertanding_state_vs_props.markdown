@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Undertanding State vs Props"
-date:       2018-10-05 19:23:09 +0000
+date:       2018-10-05 15:23:10 -0400
 permalink:  undertanding_state_vs_props
 ---
 
-Just like houses need a strong foundation, an app needs a strong foundation to work well. For a while, I thought that I had functional understanding of State vs. Props, until I was working with the React-Redux portfolio!!
+Just like houses need a strong foundation, an app needs a strong foundation to work well. For a while, I thought that I had functional understanding of State vs. Props, until I was working with the React-Redux portfolio  😱😱😱!!
 
 ### Props
 
