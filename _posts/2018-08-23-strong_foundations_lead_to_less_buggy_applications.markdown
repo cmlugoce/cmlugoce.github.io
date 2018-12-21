@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Strong foundations lead to less 'buggy' applications"
-date:       2018-08-23 23:58:47 +0000
+date:       2018-08-23 19:58:48 -0400
 permalink:  strong_foundations_lead_to_less_buggy_applications
 ---
 
@@ -28,7 +28,7 @@ If we want to add a post to an existing user we have to do this (kind of annoyin
  
   There are six types of association, but I want to focus in one, the one that I've been struggling a little with : `has_many  :through ` . From the [Rails Guide](https://guides.rubyonrails.org/association_basics.html) we get this information: 
 	
-> 	A` has_many :through` association is often used to set up a many-to-many connection with another model. This association indicates that the declaring model can be matched with zero or more instances of another model by proceeding through a third model.
+ 	A` has_many :through` association is often used to set up a many-to-many connection with another model. This association indicates that the declaring model can be matched with zero or more instances of another model by proceeding through a third model.
 
 I remember reading it a couple of weeks ago and thinking that it was cool. But today, I read two or three times, and it finally click on my brain. I had to practice by creating a simple diagram and an app. For the practice/example I thought about teachers, students, and parents:
 
