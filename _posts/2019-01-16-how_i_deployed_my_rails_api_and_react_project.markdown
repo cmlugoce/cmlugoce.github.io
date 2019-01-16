@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How I deployed my Rails API & React project "
-date:       2019-01-16 17:49:15 +0000
+date:       2019-01-16 12:49:16 -0500
 permalink:  how_i_deployed_my_rails_api_and_react_project
 ---
 
@@ -15,7 +15,7 @@ I graduated from the program some time ago!! 🎉🎉! I decided to dedicate som
 
  Deploying my backend with Heroku went smooth!  Here is how I did it:
  
- #### 1. Rails API database configuration
+ #### Rails API database configuration
  
  
  Heroku doesn't support the sqlite3 database, so I changed it to PostgreSQL by doing the following:
@@ -51,7 +51,7 @@ production:
 ```
  
  
- #### 2. Deploy!!
+ #### Deploy!!
 After setting up my database , and installing the Heroku CLI, I created my project on heroku.
 
 ```
