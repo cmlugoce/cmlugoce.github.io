@@ -15,7 +15,7 @@ I graduated from the program some time ago!! 🎉🎉! I decided to dedicate som
 
  Deploying my backend with Heroku went smooth!  Here is how I did it:
  
- #### Rails API database configuration
+  **Rails API database configuration**
  
  
  Heroku doesn't support the sqlite3 database, so I changed it to PostgreSQL by doing the following:
@@ -51,7 +51,8 @@ production:
 ```
  
  
- #### Deploy!!
+ ** Deploy!!**
+ 
 After setting up my database , and installing the Heroku CLI, I created my project on heroku.
 
 ```
