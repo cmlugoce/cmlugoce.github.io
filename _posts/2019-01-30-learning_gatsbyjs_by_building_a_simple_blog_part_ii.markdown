@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Learning Gatsbyjs by Building a Simple Blog: Part II"
-date:       2019-01-31 00:45:29 +0000
+date:       2019-01-30 19:45:30 -0500
 permalink:  learning_gatsbyjs_by_building_a_simple_blog_part_ii
 ---
 
@@ -145,9 +145,9 @@ plugins: [
 
 Next step would be to select a PrismJS theme and add it in the `gatsby-browser.js`. I chose the *solarized light* theme but you can check out more in [here](https://prismjs.com/) . 
 
-```
-require("prismjs/themes/prism-solarizedlight.css")
-```
+
+`require("prismjs/themes/prism-solarizedlight.css")`
+
 
 Let's try it in the `firstpost` file:
 
