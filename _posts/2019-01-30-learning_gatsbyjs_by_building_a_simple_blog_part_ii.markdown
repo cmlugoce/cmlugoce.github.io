@@ -161,4 +161,5 @@ Let's try it in the `firstpost` file:
 
 Awesome! Now you have functional blog! You can add any styling, and deploy it on the web!! For deployment you can use Netlify!
 
+You can view my code [here](https://github.com/cmlugoce/gatsbyjs-practice)
 🎊🎊🎊🎊❤
