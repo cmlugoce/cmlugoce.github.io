@@ -109,7 +109,7 @@ export const query = graphql`
   `
 ```
 	
-	```
+	
 
 
 Now restart the server and let's check that image!
