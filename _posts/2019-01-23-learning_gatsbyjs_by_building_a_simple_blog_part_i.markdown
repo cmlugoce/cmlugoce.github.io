@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Learning Gatsbyjs by building a simple blog: Part I"
-date:       2019-01-24 03:35:53 +0000
+title:      "Learning Gatsbyjs by Building a Simple Blog: Part I"
+date:       2019-01-23 22:35:54 -0500
 permalink:  learning_gatsbyjs_by_building_a_simple_blog_part_i
 ---
 
