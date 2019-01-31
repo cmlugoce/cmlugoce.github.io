@@ -144,10 +144,13 @@ plugins: [
 
 ```
 
-Next step would be to select a PrismJS theme and add it in the `gatsby-browser.js`. I chose the *solarized light* theme but you can check out more in [here](https://prismjs.com/) . 
+Next step would be to select a PrismJS theme and add it in the `gatsby-browser.js`. I chose the *solarized light* theme but you can check out other themes in [here](https://prismjs.com/) . 
 
+```
+//gatsby-browser.js
 
-`require("prismjs/themes/prism-solarizedlight.css")`
+require("prismjs/themes/prism-solarizedlight.css")
+```
 
 
 Let's try it in the `firstpost` file:
