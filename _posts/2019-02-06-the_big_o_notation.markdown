@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "The Big O Notation...🤔😵"
-date:       2019-02-06 17:39:54 +0000
+date:       2019-02-06 12:39:55 -0500
 permalink:  the_big_o_notation
 ---
 
-<center>
+
 ![](https://images.unsplash.com/photo-1532411644617-ea8077306595?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
-</center>
+
 
 Preparing for tech interviews is both scary and excited!! While researching for most common interview questions I stumbled with this one *How would you explain the Big O notation ?* I was a bit confused (the emojis in the title explain my reaction haha). After some research and practice I can understand the concept a little better. 
 
