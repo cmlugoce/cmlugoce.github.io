@@ -52,7 +52,8 @@ function printAllPossibleOrderedPairs(items) {
       console.log(firstItem, secondItem);
     });
   });
-}```
+}
+```
 
 In this example I am nesting two loops. If the array has n items, the outer loop runs n times and the inner loop runs n times for each iteration of the outer loop, giving us n²​​ total prints. Thus this function runs in O(n²) time (or “quadratic time”). If the array has 10 items, I have to print 100 times. If it has 1,000 items, I have to print 1,000,000 times.
 
