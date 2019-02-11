@@ -46,7 +46,7 @@ Awesome!!  Let's `cd` into our project folder and open the code editor to check 
 ├── README.md
 ```
 
-**node_modules**: The packages we are installed using npm will live in a node_modules folder.
+**node_modules**: The packages  installed using npm will live in a node_modules folder.
 
 **src**: The heart of the app lives on this folder!  Inside this folder is where you are going to find the components, images and the pages to be render in the browser.
 
