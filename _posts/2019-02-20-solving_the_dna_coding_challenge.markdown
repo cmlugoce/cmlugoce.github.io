@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Solving the DNA coding challenge💻"
-date:       2019-02-20 22:21:56 +0000
+date:       2019-02-20 17:21:58 -0500
 permalink:  solving_the_dna_coding_challenge
 ---
 
@@ -23,13 +23,15 @@ Here is the challenge:
 
 After some digging I ended up with this info:
 
- *G* element then we return an array **[”G”, “C”]**
+ *G* element then will return  **[”G”, “C”]**
 
- *C* element then we return an array **[“C”, “G”]**
+ *C* element then will return  **[“C”, “G”]**
 
- *A* element then we return an array **[“A”, "T"]** element then we return an array **[“T”, “A”]**
+ *A* element then will return  **[“A”, "T"]**  
+ 
+ *T* element will return  **[“T”, “A”]**
 
-For example we have *CGC* in the first element then we have to return **[[“C”, “G”], [“G”, “C”], [“C”, “G”]]**
+
 
 The fun part begins now!! I always try to pseudo-code, it helps me to understand the problem and to organized my thoughts!
 
