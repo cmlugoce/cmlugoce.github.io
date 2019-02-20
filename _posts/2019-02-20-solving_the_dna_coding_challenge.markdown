@@ -57,11 +57,11 @@ function pairElement(str) {
             strand.push(['G', 'C']);
             break;
 						
-						case 'C':
+					case 'C':
             strand.push(['C', 'G']);
             break;
 						
-						  case 'T':
+						case 'T':
             strand.push(['T', 'A']);
             break;
         }
