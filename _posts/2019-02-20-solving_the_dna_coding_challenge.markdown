@@ -23,11 +23,11 @@ Here is the challenge:
 
 After some digging I ended up with this info:
 
- *G* element then will return  **[”G”, “C”]**
+ *G* element  will return  **[”G”, “C”]**
 
- *C* element then will return  **[“C”, “G”]**
+ *C* element  will return  **[“C”, “G”]**
 
- *A* element then will return  **[“A”, "T"]**  
+ *A* element  will return  **[“A”, "T"]**  
  
  *T* element will return  **[“T”, “A”]**
 
