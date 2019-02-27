@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Coffee and Code: JS Algorithm Challenges During My Coffee Break ☕💻"
-date:       2019-02-27 21:42:00 +0000
+date:       2019-02-27 16:42:01 -0500
 permalink:  coffee_and_code_js_algorithm_challenges_during_my_coffee_break
 ---
 
@@ -45,6 +45,7 @@ After reading the challenge and the test cases, I had an idea of what I wanted t
 There are several ways to solve this challenge! But I will provide the one that makes more sense to my brain, and easier to remember!
 
 ```
+function findLongestWord(str) {
 let arr= str.split(' ') // split by space not by character 
  let longest = 0  //save the longest word length in this variable
 
